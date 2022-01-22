@@ -36,7 +36,7 @@ ADD IMAGE HERE.  URL is https://ucsb-ds-capstone-2021.github.io/slides/images/me
 
 My name is Jake Stenger.  There's a lot of debate about which programming langauges are the most important to learn.  Here's what I think.
 
-`![](https://ucsb-ds-capstone-2021.github.io/slides/images/meme4-small.jpeg)`
+![](https://ucsb-ds-capstone-2021.github.io/slides/images/meme4-small.jpeg)
 
 ### Issue 5: Best practices for coding
 
