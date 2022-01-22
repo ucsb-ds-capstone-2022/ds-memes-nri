@@ -19,10 +19,11 @@ ADD IMAGE HERE.  URL is https://ucsb-ds-capstone-2021.github.io/slides/images/me
 ### Issue 2: Hypothesis Testing
 
 
-My name is (NAME HERE).  Let me tell you how I feel about hypothesis testing:
+My name is Nancy.  Let me tell you how I feel about hypothesis testing:
 
 
-ADD IMAGE HERE.  URL is https://ucsb-ds-capstone-2021.github.io/slides/images/meme2-small.jpeg
+![](https://user-images.githubusercontent.com/76935431/150621002-8b2282ce-9e55-4629-8c6c-e654dce7eeb8.jpg)
+
 
 ### Issue 3: Skew
 
