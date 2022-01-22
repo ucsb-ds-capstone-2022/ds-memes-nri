@@ -49,3 +49,5 @@ My name is Sara Mandic.  When I don't comment my code I pay the price!
 ### Issue 6 (for the group): Your own meme
 
 As a group, find (or create) a better statistics meme and display it here.
+
+![](meme.jfif)
