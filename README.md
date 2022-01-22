@@ -47,3 +47,5 @@ ADD IMAGE HERE.  URL is https://ucsb-ds-capstone-2021.github.io/slides/images/me
 ### Issue 6 (for the group): Your own meme
 
 As a group, find (or create) a better statistics meme and display it here.
+
+![](https://ucsb-ds-capstone-2021.github.io/ds-memes-nri/meme.jfif)
