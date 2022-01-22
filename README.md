@@ -41,9 +41,9 @@ My name is Jake Stenger.  There's a lot of debate about which programming langau
 
 ### Issue 5: Best practices for coding
 
-My name is (NAME HERE).  When I don't comment my code I pay the price!
+My name is Sara Mandic.  When I don't comment my code I pay the price!
 
-ADD IMAGE HERE.  URL is https://ucsb-ds-capstone-2021.github.io/slides/images/meme5-small.jpeg
+![](https://ucsb-ds-capstone-2021.github.io/slides/images/meme5-small.jpeg)
 
 ### Issue 6 (for the group): Your own meme
 
